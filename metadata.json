@@ -1,0 +1,6 @@
+{
+  "name": "Werdna: The Ascension — Modern Wizardry IV",
+  "description": "A modern dark-fantasy reimagining of Wizardry IV: The Return of Werdna featuring first-person dungeon exploration, tactical pentagram monster summoning, active lair trap manipulation, and nemesis hero parties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
